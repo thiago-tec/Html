@@ -1,3 +1,3 @@
-Estudos sobre o NodeJS
+#HTML
 
-Tudo que envolver atividades com o node irá se encontrar nesse repositório.
+Tudo que envolver atividades com o html irá se encontrar nesse repositório.
